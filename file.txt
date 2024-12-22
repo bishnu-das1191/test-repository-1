@@ -1,2 +1,2 @@
 
-This content is from file 1
+This content is from file 1 and its modified.
